@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-
 	int input;
 	int output = 1;
 
@@ -13,9 +12,7 @@ int main()
 
 	for(int i = input; i > 1; i--)
 	{
-	
 		output = i * output;
-
 	}
 	cout << "Die Fakultät beträgt: " << output;
 
