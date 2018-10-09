@@ -14,7 +14,7 @@ int main()
 	{
 		output = i * output;
 	}
-	cout << "Die Fakultät beträgt: " << output;
+	cout << "Die Fakultät beträgt: " << output << endl;
 
 	return 0;
 }
